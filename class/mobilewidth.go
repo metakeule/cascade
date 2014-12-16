@@ -1,7 +1,7 @@
 package class
 
 import (
-	"github.com/metakeule/goh4"
+	"gopkg.in/metakeule/goh4.v5"
 )
 
 func mobileWidth(name string) goh4.Class {

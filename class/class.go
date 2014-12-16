@@ -1,6 +1,6 @@
 package class
 
-import "github.com/metakeule/goh4"
+import "gopkg.in/metakeule/goh4.v5"
 
 var (
 	ALL = []goh4.Class{}

@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	. "github.com/metakeule/cascade"
-	"github.com/metakeule/cascade/class"
-	. "github.com/metakeule/goh4/tag"
-	// . "github.com/metakeule/goh4/tag/short"
+	. "gopkg.in/metakeule/cascade.v1"
+	"gopkg.in/metakeule/cascade.v1/class"
+	. "gopkg.in/metakeule/goh4.v5/tag"
+	// . "gopkg.in/metakeule/goh4.v5/tag/short"
 	"net/http"
 )
 
